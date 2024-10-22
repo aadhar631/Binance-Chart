@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Binance-Chart/static/css/main.e6c13ad2.css",
+    "main.js": "/Binance-Chart/static/js/main.5fe7dbdf.js",
+    "static/js/453.74046380.chunk.js": "/Binance-Chart/static/js/453.74046380.chunk.js",
+    "index.html": "/Binance-Chart/index.html",
+    "main.e6c13ad2.css.map": "/Binance-Chart/static/css/main.e6c13ad2.css.map",
+    "main.5fe7dbdf.js.map": "/Binance-Chart/static/js/main.5fe7dbdf.js.map",
+    "453.74046380.chunk.js.map": "/Binance-Chart/static/js/453.74046380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5fe7dbdf.js"
+  ]
+}
